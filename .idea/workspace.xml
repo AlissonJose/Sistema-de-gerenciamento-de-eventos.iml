@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0164200b-9e14-451a-873c-f4ef1b6027db" name="Changes" comment="" />
+    <list default="true" id="0164200b-9e14-451a-873c-f4ef1b6027db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Eventos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Eventos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Participantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Participantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/AutorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/AutorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/EventosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/EventosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/FuncionariosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/FuncionariosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/ParticipantesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/ParticipantesRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RJ6uQ9RoZ5Gm33lijElMaXndjT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
