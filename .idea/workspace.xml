@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0164200b-9e14-451a-873c-f4ef1b6027db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0164200b-9e14-451a-873c-f4ef1b6027db" name="Changes" comment=" commit">
       <change beforePath="$PROJECT_DIR$/src/Models/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Autor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/Eventos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Eventos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Funcionarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/Participantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Participantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repositories/AutorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/AutorRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repositories/EventosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/EventosRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repositories/FuncionariosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/FuncionariosRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repositories/ParticipantesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/ParticipantesRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1686956060909</updated>
     </task>
+    <task id="LOCAL-00001" summary=" commit">
+      <created>1686962092107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686962092107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <MESSAGE value=" commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit" />
   </component>
 </project>

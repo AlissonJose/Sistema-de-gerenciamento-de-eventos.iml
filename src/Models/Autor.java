@@ -1,2 +1,13 @@
-package Models;public class Autor {
-}
+package Models;
+
+
+    public class Autor extends Pessoa {
+
+        public Autor() {
+        }
+
+        public Autor(String id, String nome, String email, String telefone, String dataNascimento) {
+            super(id, nome, email, telefone, dataNascimento);
+        }
+    }
+
